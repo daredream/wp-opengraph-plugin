@@ -1,0 +1,1 @@
+<h2><?php _e( 'Staff Details', 'my-staff-plugin' ) ?></h2>
